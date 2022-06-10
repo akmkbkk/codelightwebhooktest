@@ -1,4 +1,4 @@
 a.b.c.d=3
 x.y.z=2
 r.s.t.u=55
-token=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
+token=token
